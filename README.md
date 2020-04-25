@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created on **Monday April 13th**.
 
 ### Project Title
-Replace the Project Title
+_Bikeshare Project_:sparkles:
 
 ### Description
-Describe what your project is about and what it does
+This project is a _Python_ interactive code that allows users to ask some basic data descriptions and stats about  users of the BikeShare service in the cities of :bike:Washington, :bike:DC and :bike:New York.
 
 ### Files used
-Include the files used
+In order to analyze data, the project includes the python code (Bikeshare_Project.py) and one csv file for each city.
+1.chicago.csv
+2.washington.csv
+3.new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+In order to make this project possible, StackOverflow, pandas documentation, programizer and the Udacity course were used as guidance.
